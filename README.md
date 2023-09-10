@@ -1,0 +1,1 @@
+# This is frontend based project understanding CSS properties
